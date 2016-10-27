@@ -1,0 +1,12 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+RewriteCond %{REQUEST_URI} !(^/inc/)
+RewriteCond %{REQUEST_URI} !(^/api/)
+
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^(.*)$ /test_excel/index.php?url=$1 [QSA,L]
+</IfModule>
+
+
+

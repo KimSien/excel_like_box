@@ -1,0 +1,16 @@
+.DS_Store
+
+
+*.png
+*.jpg
+*.jpeg
+*.psd
+*.gif
+
+
+*.map
+
+
+*.rpm
+
+deplay.php
