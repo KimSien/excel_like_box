@@ -19,7 +19,7 @@
 
 ## 開発手順
 
-~~[開発手順、詳細はウィキに連動](https://bitbucket.org/toysking2016/excel_like_box/wiki/Home)
+~~開発手順、詳細はウィキに連動
 
 ----------------
 
@@ -27,7 +27,15 @@
 
 ~~masterへプッシュで、さくらレンタルサーバーにデプロイできる状態になっています。
 
-[http://labo.toysking.jp/test_excel/login/](http://labo.toysking.jp/test_excel/login/)
+
+## limit 
+
+this repository is temporary. 
+
+- deploy.php - not working
+- not exist issue
+
+original repository is bitbucket private repository. sorry.
 
 
 
